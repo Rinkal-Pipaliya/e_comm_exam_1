@@ -21,6 +21,7 @@ List of Functionalities :
 
 Output :-
 
+https://github.com/Rinkal-Pipaliya/e_comm_exam_1/assets/149695892/5ddd3a54-d286-4332-8c19-1f970d22a9a5
 
 
 ![e-comm](https://github.com/Rinkal-Pipaliya/e_comm_exam_1/assets/149695892/2654c80a-8bc9-4965-b357-a7daa2e8bd83)
